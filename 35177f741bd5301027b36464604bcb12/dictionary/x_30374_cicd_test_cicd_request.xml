@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="CICD Request" max_length="40" name="x_30374_cicd_test_cicd_request" type="collection">
+        <element label="CICD done" max_length="40" name="cicd_done" type="boolean"/>
+    </element>
+</database>
